@@ -1028,7 +1028,69 @@ The same ingredients remain recognizable, but the listener keeps discovering a d
 
 ---
 
-# 16. CASE STUDY: “I GET AROUND” AS ARRANGEMENT MODEL
+# 16. CASE STUDY: “I GET AROUND” — 2PAC
+
+The recreation was discussed as a melodic, feel-good hip-hop/R&B groove rather than a trap-hard beat.
+
+Core emotional lane:
+
+- jazzy
+- soulful
+- bouncy
+- warm
+- lush
+- playful
+- head-nodding
+- melodic-rhythmic
+- confident without aggression
+
+A useful summary from the earlier analysis:
+
+**“It smiles instead of snarls.”**
+
+## Harmony
+
+The recreation used four repeating extended voicings, approximately:
+
+- D–F–A–C–E → **Dm9**
+- a G/C/D/F/Bb-type suspended extended color → **Gm11-ish / C9sus-type territory**
+- A–C–E–G–B → **Am9**
+- an altered clustered turnaround that creates friction before returning to Dm9
+
+The important part is not the exact chord label.
+
+The emotional effect comes from:
+
+- extended 7ths and 9ths
+- shared tones between chords
+- smooth voice leading
+- a final friction-heavy turnaround
+- return to a warm minor-9 home sound
+
+This makes the progression feel richer than a simple four-triad loop without making it sound “jazzy” in a showy way.
+
+## Bass
+
+The bass does not merely repeat roots.
+
+Earlier analysis emphasized that it:
+
+- uses chord tones as the structural skeleton
+- inserts brief chromatic passing notes
+- approaches target tones by half step
+- re-expresses the harmony melodically
+
+A representative type of movement discussed was:
+
+**B → C → C#**
+
+That tiny chromatic climb creates forward pull while the harmony itself remains stable.
+
+This is a major lesson from the track:
+
+> **The bass can make a familiar chord progression feel alive by narrating the spaces between the chords.**
+
+## Arrangement
 
 Important observed sequence:
 
@@ -1041,17 +1103,475 @@ Important observed sequence:
 - verse support changes over time
 - full material eventually returns
 
-Key lesson:
+The sophistication does not come from complicated section writing.
 
-Arrangement can feel sophisticated even when the individual actions are simple.
+It comes from **foreground rotation**.
 
-Why?
+Each section decides who the listener is supposed to notice.
 
-Because each change is tied to **who the listener should focus on**.
+## Reusable lessons
+
+1. Extended minor harmony can feel sunny and social when the groove and timbre are warm.
+2. Chromatic bass approaches can add sophistication without making the harmony dark.
+3. A dense arrangement can remain clear if the foreground keeps changing.
+4. “Feel-good” hip-hop does not require major-key simplicity; it can come from groove, extensions, and smooth motion.
 
 ---
 
-# 17. CASE STUDY: 120 BPM ATMOSPHERIC / “TIMELESS”-LIKE USER TRACK
+# 17. CASE STUDY: “AQUEL NAP ZZZZ” — RAUW ALEJANDRO
+
+Tempo: approximately 81 BPM
+
+Core emotional lane:
+
+- dreamy
+- intimate
+- softly shadowed
+- lullaby-like
+- nostalgic
+- late-night
+- hazy
+- inward
+- suspended rather than tragic
+
+This track became one of the clearest examples of **melancholy without heaviness**.
+
+## Harmonic engine
+
+An earlier reconstruction described an 8-bar cycle approximately as:
+
+**C#m → G#m/B → C#m → E/B → F#m → G#m7 → C#m → E/B**
+
+The harmony stays largely inside C# minor / E-major territory.
+
+That stability matters.
+
+The track does not keep introducing dramatic new chords.
+Instead, emotional depth comes from:
+
+- inversions
+- repeated harmony
+- held tones
+- bass motion
+- melodic interaction
+- density changes
+
+## Earlier two-chord recreation insight
+
+One recreation isolated:
+
+**C#–F#–A → B–F#–A**
+
+which was read as roughly:
+
+**F#m/C# → B7(no3)**
+
+The important voice-leading idea is that upper tones remain connected while the bass/harmonic meaning changes.
+
+A was especially useful as a resting melody tone, with G# acting as a passing or glue tone.
+
+## Bass and chromatic movement
+
+Important approach motions included:
+
+**B → C → C#**
+
+**A# → B**
+
+**E → D# → E**
+
+These half-step or neighboring movements create pull without requiring dramatic chord changes.
+
+This is one reason the song feels emotionally rich despite its relatively stable harmonic language.
+
+## Melody
+
+The melody was described as relying on:
+
+- repetition
+- small descents
+- held tones
+- returning shapes
+
+The result is hypnotic rather than showy.
+
+It feels as though the melody is **circling a thought** instead of delivering a dramatic statement.
+
+## Arrangement
+
+A previous structural analysis divided the recreation approximately like this:
+
+- bars 1–16: full signature statement
+- bars 17–32: stripped breakdown with more space
+- bars 33–40: lifted / more continuous lead section
+- bars 41–44: freer coda
+
+The harmony does not need to change radically because the **density changes the emotional meaning**.
+
+## Outro / ending lesson
+
+The ending was described as a hazy emotional comedown:
+
+- rhythm recedes into mood
+- vocals/textures become more distant
+- harmony stays suspended
+- the track feels half-awake rather than resolved
+
+This produces intimacy instead of finality.
+
+## Reusable lesson
+
+> **Stable harmony can still feel deeply emotional when melody, bass, inversions, chromatic approaches, and arrangement density keep changing around it.**
+
+This is an important alternative to the idea that emotional music needs constant chord changes.
+
+---
+
+# 18. CASE STUDY: “MICE ON VENUS” — C418 / PART 2 RECREATION
+
+Tempo of the analyzed recreation: approximately 110 BPM  
+Length analyzed: about 63 bars
+
+Core emotional lane:
+
+- enchanted
+- autumnal
+- mysterious
+- atmospheric
+- melancholy
+- uncanny
+- dark-fantasy-like
+- beautiful but slightly abnormal
+
+The emotional description was later refined away from ordinary “sad darkness.”
+
+Best labels:
+
+**enchanted eeriness**
+
+and
+
+**atmospheric uncanny darkness**
+
+The distinction matters:
+
+> It feels less like danger approaching and more like a beautiful environment becoming subtly strange.
+
+## Opening ambiguity
+
+The opening uses open **C–G fifths**.
+
+Open fifths omit the 3rd.
+
+That means the listener initially receives:
+
+- space
+- ambiguity
+- age / simplicity
+- environmental openness
+
+before major/minor identity becomes explicit.
+
+This is an extremely useful emotional device.
+
+## D-minor extension color
+
+As the harmony develops, the open material moves into a **Dm11-type color**.
+
+Important extension behavior included:
+
+- D-minor-centered harmony
+- 9th / 11th / 13th-like colors
+- B natural producing Dorian color
+- D pedal tones
+
+The B natural is especially significant.
+
+Against D minor, B natural brightens the mode without making it simply major.
+
+Effect:
+
+- enchanted
+- old-world
+- slightly magical
+- less conventionally tragic than natural minor
+
+## Pedal tone
+
+A sustained or recurring D underneath changing upper material creates:
+
+- grounding
+- environmental continuity
+- tension from upper notes changing over a stable floor
+
+Pedal tones are especially effective for music that should feel like **a place**, not just a progression.
+
+## Chromatic detour
+
+Around the middle section, the analysis identified a move into:
+
+- G7 / augmented-like color
+- chromatic D# / G# tension
+- F-minor-related colors
+
+This is where the piece becomes noticeably stranger.
+
+The chromatic section is powerful because it is **reserved**.
+
+The track first teaches the listener a spacious, enchanted world.
+
+Only later does it distort that world.
+
+That makes the abnormal harmony feel narrative.
+
+## Return
+
+After the chromatic detour, familiar material returns.
+
+The return does not merely repeat the beginning.
+
+It feels emotionally changed because the listener has now heard the unstable middle.
+
+This is a central arrangement lesson:
+
+> **Return gains meaning from contrast.**
+
+## Ending
+
+The final section strips back toward open fifths again.
+
+That subtractive coda restores ambiguity rather than providing a giant resolution.
+
+Effect:
+
+- distance
+- lingering mystery
+- memory
+- unfinished landscape
+
+## Reusable lessons
+
+1. Open fifths are useful when you want emotional ambiguity before major/minor identity.
+2. Dorian color can make minor harmony feel enchanted rather than simply sad.
+3. Pedal bass can turn harmony into an environment.
+4. Save chromatic instability for a later section if you want it to feel narratively important.
+5. Returning to earlier material after a strange section can make the same notes feel emotionally transformed.
+6. A subtractive ending can preserve mystery better than a strong final cadence.
+
+---
+
+# 19. CASE STUDY: “THE WORLD IS YOURS” — NAS
+
+Core emotional lane:
+
+- hopeful
+- wistful
+- elegant
+- soulful
+- streetwise
+- optimistic
+- nostalgic
+- intimate
+
+The important thing is that the optimism is not naive.
+
+The music feels warm and aspirational while still carrying reflection.
+
+## Harmonic character
+
+Earlier recreation material included voicings such as:
+
+- F–A–C–E
+- E–G–C–E
+- A–C–E
+- B–D–F#
+- D–F–A
+
+The exact functional labels are less important than the emotional architecture:
+
+**major warmth → smooth descending motion → minor reflection → soulful bittersweet turnaround**
+
+The harmony is relatively simple in structural terms, but inversions and common tones make it feel richer.
+
+## Bass
+
+The bass was one of the most important emotional mechanisms.
+
+Earlier analysis emphasized:
+
+- smooth descent
+- chord-tone foundation
+- chromatic or neighboring approaches
+- movement that links harmony together
+
+This is why the track can feel both grounded and reflective.
+
+The bass is not there merely to reinforce roots.
+It creates the sense that the music is **walking through the harmony**.
+
+## Melody
+
+A useful model extracted from the recreation was:
+
+- recognizable repeated idea
+- then a descending answer
+- occasional chromatic approach
+- plenty of space
+
+The melody is memorable because it is not constantly reinventing itself.
+
+## Tempo and space
+
+Around 80 BPM, the groove has enough room for:
+
+- piano decay
+- bass movement
+- drum pocket
+- vocal phrasing
+
+The spaciousness contributes strongly to intimacy.
+
+## Instrument hierarchy
+
+The recreation discussion produced a useful arrangement model:
+
+- lead owns high frequencies
+- vocal sample supplies rhythmic low-mid complexity
+- simplified trumpets provide background harmonic glue
+- drums and bass provide foundation
+
+This is a strong example of **complexity through hierarchy rather than clutter**.
+
+## Emotional mechanism
+
+The song’s “beautiful” quality comes from:
+
+- jazz-influenced piano color
+- shared notes
+- smooth inversions
+- descending bass
+- minor reflective turns
+- warm traditional hip-hop drums
+
+It is not angelic.
+
+It is **lived-in beauty**.
+
+## Reusable lesson
+
+> **Hopeful hip-hop can sound sophisticated by combining warm major color, reflective minor motion, smooth bass descent, and spacious drums rather than simply using bright major chords.**
+
+---
+
+# 20. CASE STUDY: “SOUNDTRACK 2 MY LIFE” — KID CUDI
+
+This was another earlier analysis that was missing from the first version of the bible.
+
+Core emotional lane:
+
+- autobiographical
+- warm
+- earnest
+- nostalgic
+- psychologically exposed
+- conversational
+- vulnerable without becoming fragile
+
+## Cadence
+
+The vocal delivery was described as:
+
+- breezy
+- rhythmic
+- steady
+- mid-tempo
+- packed with internal rhyme
+- lightly melodic
+
+The cadence keeps moving even when the lyrical material becomes personal.
+
+That prevents the song from becoming musically heavy.
+
+## Hook / chant behavior
+
+The title phrase behaves almost playfully.
+
+That creates a useful contradiction:
+
+- subject matter = personal struggle / psyche
+- delivery = memorable, rhythmic, accessible
+
+The track therefore invites the listener in before exposing deeper material.
+
+## Production
+
+Important production traits discussed:
+
+- looping soul sample
+- crisp boom-bap drums
+- warm nostalgic texture
+- clear, repeatable rhythmic foundation
+
+The production has enough historical hip-hop familiarity to feel grounded while the vocal content makes the song personal.
+
+## Emotional role
+
+The track works as an introduction to a psychological world.
+
+It does not merely state emotion.
+
+It provides context:
+
+- family struggle
+- early fame
+- internal life
+- self-description
+
+## Reusable lesson
+
+> **A vulnerable song does not need fragile production. A steady groove and warm sample can make personal material easier to enter while preserving emotional depth.**
+
+---
+
+# 21. CROSS-REFERENCE: FOUR WAYS OF USING CHROMATICISM
+
+These added case studies reveal four distinct emotional uses of chromatic motion.
+
+### Aquel Nap ZzZz
+Chromatic approaches such as:
+
+**B → C → C#**
+
+feel intimate and directional.
+
+Function:
+**soft pull**
+
+### Mice on Venus
+Reserved D#/G#-type chromatic disruption arrives after stable enchanted harmony.
+
+Function:
+**the environment becomes strange**
+
+### I Get Around
+Chromatic bass approaches connect warm extended harmony.
+
+Function:
+**groove sophistication**
+
+### The World Is Yours
+Chromatic passing/approach behavior works inside a warm jazz-influenced hip-hop framework.
+
+Function:
+**bittersweet polish**
+
+The lesson:
+
+> **Chromaticism is not an emotion. It is a motion whose emotional meaning depends on timing, duration, timbre, register, and harmonic context.**
+
+---
+
+# 22. CASE STUDY: 120 BPM ATMOSPHERIC / “TIMELESS”-LIKE USER TRACK
 
 Tempo: 120 BPM
 
@@ -1135,7 +1655,7 @@ Effect:
 
 ---
 
-# 18. CASE STUDY: CHARTLINE BRASS MOTIF
+# 23. CASE STUDY: CHARTLINE BRASS MOTIF
 
 Tempo: 122 BPM
 
@@ -1231,7 +1751,7 @@ It needs:
 
 ---
 
-# 19. GENERAL EMOTIONAL DEVICES LIBRARY
+# 24. GENERAL EMOTIONAL DEVICES LIBRARY
 
 ## “Warm but not angelic”
 Use:
@@ -1312,7 +1832,7 @@ Use:
 
 ---
 
-# 20. WHAT NOT TO ASSUME
+# 25. WHAT NOT TO ASSUME
 
 ## Minor does not equal dark
 Check:
@@ -1360,7 +1880,7 @@ Bigger can come from:
 
 ---
 
-# 21. WORKFLOW FOR WRITING EMOTIONALLY INTENTIONAL MUSIC
+# 26. WORKFLOW FOR WRITING EMOTIONALLY INTENTIONAL MUSIC
 
 ## Step 1: Write the emotional sentence
 
@@ -1451,7 +1971,7 @@ If everything is present immediately, the arrangement has nothing left to reveal
 
 ---
 
-# 22. FINAL REFERENCE: EMOTION IS MULTIDIMENSIONAL
+# 27. FINAL REFERENCE: EMOTION IS MULTIDIMENSIONAL
 
 A useful shorthand:
 
@@ -1477,7 +1997,7 @@ The goal is to make the listener feel a specific emotional situation before they
 
 ---
 
-# 23. ONE-SENTENCE LESSONS FROM EVERY MAJOR STUDY
+# 28. ONE-SENTENCE LESSONS FROM EVERY MAJOR STUDY
 
 - Late-90s broadcast beat: **nostalgia can come from context, timbre, and bass motion more than sadness.**
 - HPET: **a repeated progression becomes emotionally rich when bass and melody reinterpret it.**
@@ -1486,7 +2006,11 @@ The goal is to make the listener feel a specific emotional situation before they
 - Cool.mid: **playfulness often comes from contour, register, and quick tension-resolution rather than purely major harmony.**
 - BUILDING: **a vocal sample can become the central instrument when its rhythm and frequency role are deliberately designed.**
 - A.N.T.G.: **arrangement is attention management, not random muting.**
-- I Get Around: **simple layer exchanges can feel sophisticated when each section has a clear foreground.**
+- I Get Around: **warm extended harmony can stay playful and feel-good when bass motion, groove, and foreground hierarchy prevent the minor color from becoming heavy.**
+- Aquel Nap ZzZz: **stable harmony can become deeply emotional through inversions, held tones, chromatic approaches, and density changes rather than constant new chords.**
+- Mice on Venus: **open-fifth ambiguity, Dorian color, pedal tones, and delayed chromatic instability can make minor music feel enchanted and uncanny instead of simply sad.**
+- The World Is Yours: **hopeful hip-hop can combine warm major color, reflective minor motion, descending bass, and spacious traditional drums without becoming sugary.**
+- Soundtrack 2 My Life: **steady rhythmic delivery and warm sample-based production can carry vulnerable autobiographical material without making the music fragile.**
 - 120 BPM atmospheric track: **a song can grow by moving from air to weight and by transforming a melody instead of replacing it.**
 - Chartline brass motif: **minor harmony can feel energetic and iconic when the voices rise and the arrangement gives the motif space.**
 
