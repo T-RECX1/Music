@@ -2,6 +2,14 @@
 
 > Source: Tatum's uploaded MIDI reconstruction files. This is a study of the reconstructed guitar arrangement and timing, not a claim that every note exactly matches the released master.
 
+## Raw MIDI sources in this repository
+
+The exact source files used for this study are preserved under:
+
+`references/aquel-nap-zzzz/midi/`
+
+These binary MIDI files are the canonical source for the later cross-track study of **melodic catchiness / memorability**, including contour, rhythmic fingerprint, repeated cells, semitone behavior, phrase length, and exact motif recurrence.
+
 ## Source files
 
 - `Aquel_Nap_ZzZz_Guitar_background_chords(2).mid`
@@ -38,9 +46,11 @@ The track feels:
 - gently uneasy in places
 - emotionally shaded without becoming tragic
 
-A useful distinction is:
+After re-listening, the more accurate center is:
 
-> **darkness here means “a direction away from bright/happy,” not “threatening” or “creepy.”**
+> **a nocturnal, melancholic “sad-ish lullaby” — softly sad and shadowed, but not threatening, tragic, or emotionally heavy.**
+
+The earlier “dark” description still matters, but it should be understood as part of the melancholy rather than as proof that the track is not sad.
 
 That darkness comes largely from:
 
@@ -322,7 +332,7 @@ The chromatic notes are generally:
 - resolving
 - placed inside a stable harmonic loop
 
-So the listener hears friction without hearing collapse.
+So the listener hears little aches and shadows without hearing emotional collapse. This supports **soft melancholy** rather than eliminating sadness.
 
 This is different from using a chromatic note as a long structural harmony.
 
@@ -648,9 +658,9 @@ Best summary:
 
 ---
 
-# 17. Why it does not sound sad
+# 17. Why the sadness stays soft rather than heavy
 
-Several things prevent the minor harmony from turning into obvious sadness:
+Several things prevent the sadness from turning into something heavy, tragic, or devastating:
 
 1. The guitar pulse remains active.
 2. The melody contains motion and curiosity.
@@ -661,13 +671,11 @@ Several things prevent the minor harmony from turning into obvious sadness:
 7. Repetition makes the harmony comforting rather than tragic.
 8. The ending becomes freer rather than more emotionally heavy.
 
-So “dark” is a reasonable description if it is defined as:
+So the most accurate emotional label is:
 
-> **slightly shaded away from happiness**
+> **nighttime + lullaby + wistful + softly sad**
 
-rather than:
-
-> **disturbing or depressing**
+The “dark” quality is still real, but it is better understood as a gentle shadow inside the melancholy rather than as a separate non-sad emotion.
 
 ---
 
