@@ -1136,11 +1136,13 @@ Core emotional lane:
 - suspended
 - warm
 - inward
-- not fundamentally sad
+- softly sad / melancholic, but not heavy or tragic
 
-The most useful definition of “dark” here is:
+After re-listening, the more accurate emotional center is:
 
-> **a slight direction away from bright/happy, not threat, horror, or tragedy.**
+> **a nighttime, melancholic / “sad-ish lullaby”: softly sad and shadowed, but not tragic, threatening, or heavy.**
+
+The earlier “dark” label still applies, but as part of the melancholy rather than as evidence that the track is not sad.
 
 ## Harmonic home
 
@@ -1235,7 +1237,7 @@ Best description:
 
 > **the familiar note momentarily dims.**
 
-## Why the chromaticism does not sound sad
+## Why the sadness stays soft rather than heavy
 
 Most of the foreign notes are:
 
@@ -1245,13 +1247,13 @@ Most of the foreign notes are:
 - resolving
 - embedded inside a very stable harmonic loop
 
-The listener gets friction without losing orientation.
+The listener gets small aches and shadows without losing orientation.
 
 This is fundamentally different from making the strange pitch a long structural harmony.
 
 Reusable lesson:
 
-> **Stable minor harmony + brief half-step neighbors can create shadow without sadness.**
+> **Stable minor harmony + brief half-step neighbors can create soft melancholy without making the music heavy or tragic.**
 
 ## Main melodic hook: descending interlocking strands
 
