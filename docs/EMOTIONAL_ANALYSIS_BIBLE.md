@@ -248,7 +248,6 @@ Preserve the motif but change the final note to match a new chord.
 
 ### Ascending fragments
 Often imply:
-
 - curiosity
 - optimism
 - lift
@@ -498,7 +497,6 @@ It can instead function as:
 - nostalgic broadcast cue
 
 Timbre and musical behavior are separate variables.
-
 ---
 
 # 7. SPACE AND EFFECTS
@@ -747,7 +745,6 @@ Bb → Db → C → Ab
 This makes the melody expose the major-to-minor change itself.
 
 ---
-
 # 11. CASE STUDY: “LIVING MY TRUTH” RECREATION
 
 Tempo: 81 BPM
@@ -998,7 +995,6 @@ Critical production lesson:
 The voice can stay prominent if it behaves like a rhythmic low/mid instrument while the synth lead occupies the melodic upper register.
 
 BUILDING is a useful example of designing a track around a vocal sample as an instrument rather than treating it as decoration.
-
 ---
 
 # 15. CASE STUDY: A.N.T.G. ARRANGEMENT
@@ -1227,138 +1223,308 @@ This is an important alternative to the idea that emotional music needs constant
 
 ---
 
-# 18. CASE STUDY: “MICE ON VENUS” — C418 / PART 2 RECREATION
+# 18. CASE STUDY: “MICE ON VENUS” — C418 / PART 2 MIDI RECONSTRUCTION
 
-Tempo of the analyzed recreation: approximately 110 BPM  
-Length analyzed: about 63 bars
+Deep source note: this section is based on the user’s uploaded reconstruction stems. A full note-level study is stored at:
 
-Core emotional lane:
+**[`references/mice-on-venus/PART_2_MIDI_ANALYSIS.md`](../references/mice-on-venus/PART_2_MIDI_ANALYSIS.md)**
 
-- enchanted
-- autumnal
-- mysterious
-- atmospheric
-- melancholy
-- uncanny
-- dark-fantasy-like
-- beautiful but slightly abnormal
+The reconstruction is approximately **110 BPM, 4/4**, and the longest separated stems extend to about **204 beats = 51 bars**.
 
-The emotional description was later refined away from ordinary “sad darkness.”
+Measured arrangement facts:
+
+- pizzicato: 683 note events
+- harp: 443 note events
+- mallet: 236 note events; first enters at **bar 9**
+- lead: 73 note events; first enters at **bar 13**
+- strings: only 18 note events; mostly long octave doublings
+- background synth: 94 note events; first enters at **bar 33**
+
+These counts are musically revealing: the atmosphere does not come from every layer being dense. Highly active layers coexist with extremely sparse layers that carry large emotional weight.
+
+## Core emotional lane
 
 Best labels:
 
-**enchanted eeriness**
-
-and
-
-**atmospheric uncanny darkness**
-
-The distinction matters:
-
-> It feels less like danger approaching and more like a beautiful environment becoming subtly strange.
-
-## Opening ambiguity
-
-The opening uses open **C–G fifths**.
-
-Open fifths omit the 3rd.
-
-That means the listener initially receives:
-
-- space
-- ambiguity
-- age / simplicity
-- environmental openness
-
-before major/minor identity becomes explicit.
-
-This is an extremely useful emotional device.
-
-## D-minor extension color
-
-As the harmony develops, the open material moves into a **Dm11-type color**.
-
-Important extension behavior included:
-
-- D-minor-centered harmony
-- 9th / 11th / 13th-like colors
-- B natural producing Dorian color
-- D pedal tones
-
-The B natural is especially significant.
-
-Against D minor, B natural brightens the mode without making it simply major.
-
-Effect:
-
 - enchanted
-- old-world
-- slightly magical
-- less conventionally tragic than natural minor
+- atmospheric
+- melancholy
+- mysterious
+- subtly uncanny
+- beautiful but slightly abnormal
 
-## Pedal tone
+Best summary:
 
-A sustained or recurring D underneath changing upper material creates:
+> **A familiar place becomes subtly strange, then feels larger when it becomes familiar again.**
 
-- grounding
-- environmental continuity
-- tension from upper notes changing over a stable floor
+The unease is environmental rather than threatening.
 
-Pedal tones are especially effective for music that should feel like **a place**, not just a progression.
+## D-Dorian home world
 
-## Chromatic detour
+The stable home pitch collection is overwhelmingly:
 
-Around the middle section, the analysis identified a move into:
+**D – E – F – G – A – B – C**
 
-- G7 / augmented-like color
-- chromatic D# / G# tension
-- F-minor-related colors
+This is **D Dorian**.
 
-This is where the piece becomes noticeably stranger.
+The emotional contradiction is especially important:
 
-The chromatic section is powerful because it is **reserved**.
+- F natural = minor 3rd / melancholy
+- B natural = natural 6th / brightness inside the minor world
 
-The track first teaches the listener a spacious, enchanted world.
+The B natural keeps the harmony from becoming ordinary tragic minor.
 
-Only later does it distort that world.
+Reusable lesson:
 
-That makes the abnormal harmony feel narrative.
+> **Minor 3rd + natural 6th can create melancholy with a built-in light source.**
 
-## Return
+## Harmonic field rather than constant progression
 
-After the chromatic detour, familiar material returns.
+For long stretches, D functions as the ground while the upper extensions change.
 
-The return does not merely repeat the beginning.
+Useful reductions include:
 
-It feels emotionally changed because the listener has now heard the unstable middle.
+- Dm13-ish: D–F–A–C–E–B
+- Dm11-ish: D–F–A–C–G
+- Dm9: D–F–A–C–E
 
-This is a central arrangement lesson:
+The exact labels matter less than the behavior:
 
-> **Return gains meaning from contrast.**
+**the tonal floor stays familiar while the lighting above it changes.**
 
-## Ending
+This makes harmony feel like a place rather than a sequence of chord destinations.
 
-The final section strips back toward open fifths again.
+## Extensions as individual voices
 
-That subtractive coda restores ambiguity rather than providing a giant resolution.
+Important colors include:
 
-Effect:
+- E over D = 9th
+- G over D = 11th
+- B over D = natural 13th / Dorian color
 
-- distance
-- lingering mystery
-- memory
-- unfinished landscape
+The strings often hold a single octave-doubled note instead of reproducing the whole chord.
 
-## Reusable lessons
+Lesson:
 
-1. Open fifths are useful when you want emotional ambiguity before major/minor identity.
-2. Dorian color can make minor harmony feel enchanted rather than simply sad.
-3. Pedal bass can turn harmony into an environment.
-4. Save chromatic instability for a later section if you want it to feel narratively important.
-5. Returning to earlier material after a strange section can make the same notes feel emotionally transformed.
-6. A subtractive ending can preserve mystery better than a strong final cadence.
+> **A single sustained extension can color a harmony more clearly than a full pad voicing.**
 
----
+## Instrument-role hierarchy
+
+- **Pizzicato:** harmonic/rhythmic engine; creates pulse without drums.
+- **Harp:** connective ornament and gap-filling motion.
+- **Mallet:** bright detail; arrives only after the world is established.
+- **Lead:** foreground event; deliberately delayed until bar 13.
+- **Strings:** emotional lighting; extremely sparse.
+- **Background synth:** new timbre introduced only after the strange region, at bar 33.
+
+Every part has a different job. The arrangement is not several instruments duplicating “the chords.”
+
+## Structural arc
+
+A useful reading of the reconstruction:
+
+- bars 1–8: establish D-Dorian environment
+- bars 9–12: add mallet detail
+- bars 13–16: first large lead statement
+- bars 17–18: reduce toward a simple Dm7 skeleton
+- bars 19–30: chromatic / uncanny excursion
+- bars 31–32: reduce toward an Fm7 skeleton
+- bar 33 onward: D-Dorian home returns with richer orchestration and a new background synth
+- final bars: open-interval descent and decompression
+
+The important macro-shape is:
+
+**home → expansion → reduction → rule violation → reduction → transformed homecoming → dissolution**
+
+## The uncanny harmonic excursion
+
+The stable home collection is:
+
+**D E F G A B C**
+
+The strange region introduces especially important foreign pitches:
+
+**Ab and Eb**
+
+A recurring altered G-centered collection is approximately:
+
+**G – B – D – F – Ab – C**
+
+which can be heard as a G7(b9, add11)-type sonority.
+
+It contains several strong tensions:
+
+- G / Ab semitone
+- B / C semitone
+- B / F tritone
+
+The response moves into an F-minor-centered collection such as:
+
+**F – Ab – C – Eb – G – D**
+
+The key emotional mechanism is not just “dissonance.” The altered G sonority implies direction, but the answer is not the most conventional destination.
+
+Lesson:
+
+> **Unease can come from giving the listener a familiar tension signal and answering it with a nearby but unexpected harmonic region.**
+
+## Why the strange section stays uneasy rather than scary
+
+The pitch language changes strongly, but several other dimensions remain familiar:
+
+- tempo
+- instrumental family
+- rhythmic behavior
+- general dynamics
+- overall sonic world
+
+So the listener experiences:
+
+> **“Something about this place changed.”**
+
+rather than:
+
+> “A threat appeared.”
+
+General rule:
+
+> **For subtle unease, change one musical dimension strongly while leaving the others recognizable.**
+
+## The C → B → C string motion
+
+This is one of the strongest details in the entire reconstruction and a major user preference.
+
+Exact MIDI timing:
+
+- C5 + C6 begin at beat 96 = **bar 25**, held for two bars
+- B4 + B5 begin at beat 104 = **bar 27**, held for two bars
+- C5 + C6 begin at beat 112 = **bar 29**, held for two bars
+
+The large background gesture is therefore:
+
+**C → B → C**
+
+Each change is a **half step / semitone**.
+
+Why it is so effective:
+
+1. the pitch movement is tiny, but the notes last a long time
+2. sustained strings magnify the recoloring
+3. the notes already belong to the surrounding harmonic vocabulary
+4. against G-centered harmony, C can feel suspended/11-like while B strongly defines the major-third/dominant color
+5. octave doubling increases size without adding harmonic complexity
+
+Best reusable lesson:
+
+> **A slow semitone shift in a sustained background voice can radically recolor familiar harmony without disrupting its identity.**
+
+Another useful formulation:
+
+> **A new chord says “we are somewhere else.” A long background voice moving by one half step says “we are still here, but something changed.”**
+
+This is especially useful for:
+
+- unease
+- nostalgia
+- bittersweetness
+- enchanted strangeness
+- same-place / different-feeling transformations
+
+## Main-lead behavior
+
+The lead is not primarily scalar.
+
+Its foreground phrases use:
+
+- large consonant leaps
+- fourths/fifths/sixths
+- octave displacement
+- sparse attacks
+- eventual downward folding
+
+This makes the melody feel like points appearing at different heights rather than a singer walking through a scale.
+
+Important correction for future compositions:
+
+> **Atmospheric does not mean melodically vague. A strong atmospheric piece still benefits from a clear, memorable contour.**
+
+The user specifically values the repeating descending/returning figures in Mice on Venus because they give the ear something to latch onto.
+
+## Exact motif return
+
+Major lead material later returns essentially unchanged.
+
+That is a strength.
+
+The supporting arrangement changes enough that the same phrase gains new emotional meaning.
+
+Lesson:
+
+> **Do not constantly rewrite a strong motif just to create development. Context can do the developing.**
+
+## Subtraction as transition
+
+Before major structural changes, the harmony simplifies:
+
+- bars 17–18 reduce toward D–F–A–C / Dm7
+- bars 31–32 reduce toward F–Ab–C–Eb / Fm7
+
+Removing extensions resets the ear.
+
+Lesson:
+
+> **Before an important return or detour, remove information. The listener becomes more sensitive to what comes next.**
+
+## Homecoming as payoff
+
+At bar 33 the familiar D-Dorian collection returns, but the arrangement is richer and the **background synth enters for the first time**.
+
+The climax mechanism is therefore not “more advanced harmony.”
+
+It is:
+
+**recognition + new orchestration + increased density**
+
+Lesson:
+
+> **The return of a familiar musical world can become the emotional climax if the listener has spent enough time away from it.**
+
+## Ending / decompression
+
+The final section increasingly favors open intervals and subtraction.
+
+Representative descending dyads include:
+
+- A–E
+- G–D
+- F–C
+- D–A
+
+The texture gradually contracts from open fifths toward smaller intervals and reduced sonorities.
+
+Instead of ending with a strong “D minor, final answer” cadence, the piece stops explicitly naming the emotion.
+
+Lesson:
+
+> **An atmospheric ending can become stronger by removing the note or interval that most clearly labels the emotion.**
+
+## Reusable rules
+
+1. Establish a modal home before violating it.
+2. Use a pedal/tonal floor to make harmony feel environmental.
+3. Use Dorian natural 6 as light inside minor melancholy.
+4. Let extensions exist as individual voices.
+5. Give every instrument a distinct job.
+6. Delay a foreground event until the world is established, but make the melody identifiable once it arrives.
+7. Large consonant leaps can create atmospheric melody without vagueness.
+8. Exact motif repetition can be emotionally powerful.
+9. Reserve foreign pitches for a structurally important region.
+10. For subtle unease, preserve tempo/timbre/pulse while changing pitch language.
+11. Slow semitone motion in sustained background voices creates “same place, something changed.”
+12. Use subtraction before transitions.
+13. Make homecoming a payoff.
+14. Introduce a new timbre on the return.
+15. End by removing explicit harmonic identity.
 
 # 19. CASE STUDY: “THE WORLD IS YOURS” — NAS
 
@@ -1497,7 +1663,6 @@ That prevents the song from becoming musically heavy.
 The title phrase behaves almost playfully.
 
 That creates a useful contradiction:
-
 - subject matter = personal struggle / psyche
 - delivery = memorable, rhythmic, accessible
 
@@ -1748,7 +1913,6 @@ It needs:
 - empty space
 - repeatable shape
 - visual-edit compatibility
-
 ---
 
 # 24. GENERAL EMOTIONAL DEVICES LIBRARY
@@ -1998,7 +2162,6 @@ The goal is to make the listener feel a specific emotional situation before they
 ---
 
 # 28. ONE-SENTENCE LESSONS FROM EVERY MAJOR STUDY
-
 - Late-90s broadcast beat: **nostalgia can come from context, timbre, and bass motion more than sadness.**
 - HPET: **a repeated progression becomes emotionally rich when bass and melody reinterpret it.**
 - Living My Truth: **chromatic notes on paper do not determine emotional darkness; timbre and phrasing can completely change the result.**
