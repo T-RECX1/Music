@@ -2,6 +2,14 @@
 
 > Source: Tatum's uploaded MIDI reconstruction stems, analyzed as a compositional/arrangement study. This is not claimed to be an authoritative transcription of the released master.
 
+## Raw MIDI sources in this repository
+
+The exact source files used for this study are preserved under:
+
+`references/mice-on-venus/midi/`
+
+These binary MIDI files are the canonical source for future note-level comparison, especially the planned study of **why the melodies are catchy / memorable**: contour, rhythmic fingerprint, repetition, interval pattern, register, phrase length, and motif return.
+
 ## Source set
 
 - `Mice_on_Venus_String_Pizzicato.mid`
