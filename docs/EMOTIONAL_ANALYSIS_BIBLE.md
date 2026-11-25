@@ -247,8 +247,7 @@ Preserve the motif but change the final note to match a new chord.
 ## 3.2 Contour creates emotional meaning
 
 ### Ascending fragments
-Often imply:
-- curiosity
+Often imply:- curiosity
 - optimism
 - lift
 - anticipation
@@ -498,7 +497,6 @@ It can instead function as:
 
 Timbre and musical behavior are separate variables.
 ---
-
 # 7. SPACE AND EFFECTS
 
 ## Reverb
@@ -748,7 +746,6 @@ This makes the melody expose the major-to-minor change itself.
 # 11. CASE STUDY: “LIVING MY TRUTH” RECREATION
 
 Tempo: 81 BPM
-
 Important lesson:
 
 **The MIDI looked darker than the actual emotional result.**
@@ -998,7 +995,6 @@ BUILDING is a useful example of designing a track around a vocal sample as an in
 ---
 
 # 15. CASE STUDY: A.N.T.G. ARRANGEMENT
-
 This track was useful primarily as an arrangement study.
 
 Observed movement:
@@ -1114,112 +1110,362 @@ Each section decides who the listener is supposed to notice.
 
 ---
 
-# 17. CASE STUDY: “AQUEL NAP ZZZZ” — RAUW ALEJANDRO
+# 17. CASE STUDY: “AQUEL NAP ZZZZ” — RAUW ALEJANDRO / GUITAR MIDI RECONSTRUCTION
 
-Tempo: approximately 81 BPM
+Deep source note: this section is based on the user’s uploaded guitar reconstruction MIDI. Full note-level study:
+
+**[`references/aquel-nap-zzzz/GUITAR_MIDI_ANALYSIS.md`](../references/aquel-nap-zzzz/GUITAR_MIDI_ANALYSIS.md)**
+
+Measured project facts:
+
+- MIDI tempo marker: approximately **84 BPM**
+- meter: **4/4**
+- background-chord track: 778 notes
+- main guitar track: 359 notes
+- auxiliary guitar track: 6 notes
+- the structured background loop continues for roughly 40 bars
+- the final guitar-only coda leaves the grid and accelerates even though the MIDI tempo marker never changes
 
 Core emotional lane:
 
-- dreamy
+- nocturnal
 - intimate
-- softly shadowed
 - lullaby-like
-- nostalgic
-- late-night
-- hazy
+- softly dark
+- dreamy
+- suspended
+- warm
 - inward
-- suspended rather than tragic
+- not fundamentally sad
 
-This track became one of the clearest examples of **melancholy without heaviness**.
+The most useful definition of “dark” here is:
 
-## Harmonic engine
+> **a slight direction away from bright/happy, not threat, horror, or tragedy.**
 
-An earlier reconstruction described an 8-bar cycle approximately as:
+## Harmonic home
 
-**C#m → G#m/B → C#m → E/B → F#m → G#m7 → C#m → E/B**
+The recurring background is centered around **C# minor / E-major-adjacent** harmony.
 
-The harmony stays largely inside C# minor / E-major territory.
+Useful 8-bar reduction:
 
-That stability matters.
+1. C#m
+2. G#m/B-type shell / G#–B dyad
+3. C#m
+4. E/B
+5. F#m
+6. G#m7
+7. C#m
+8. E/B
 
-The track does not keep introducing dramatic new chords.
-Instead, emotional depth comes from:
+The loop avoids a forceful major-dominant cadence.
 
-- inversions
-- repeated harmony
-- held tones
-- bass motion
-- melodic interaction
-- density changes
+That matters.
 
-## Earlier two-chord recreation insight
+The harmony circles through familiar related chords rather than demanding resolution.
 
-One recreation isolated:
+This supports the lullaby/nighttime feeling.
 
-**C#–F#–A → B–F#–A**
+## Background rhythmic behavior
 
-which was read as roughly:
+The guitar accompaniment repeatedly attacks approximately on:
 
-**F#m/C# → B7(no3)**
+**1& – 2 – 2& – 3& – 4 – 4&**
 
-The important voice-leading idea is that upper tones remain connected while the bass/harmonic meaning changes.
+Strong downbeats are often left open.
 
-A was especially useful as a resting melody tone, with G# acting as a passing or glue tone.
+Effect:
 
-## Bass and chromatic movement
+- rocking instead of marching
+- gentle syncopation
+- floating pulse
+- low urgency
+- cradle-like asymmetry
 
-Important approach motions included:
+The repeated harmony therefore feels hypnotic without becoming static.
 
-**B → C → C#**
+## Half steps as the main “darkness” language
 
-**A# → B**
+The foreground guitar repeatedly brushes stable harmony with semitone neighbors.
 
-**E → D# → E**
+Important recurring shapes include:
 
-These half-step or neighboring movements create pull without requiring dramatic chord changes.
+### B → C → C#
 
-This is one reason the song feels emotionally rich despite its relatively stable harmonic language.
+C natural is not treated as a new destination.
 
-## Melody
+It is a bridge into C#.
 
-The melody was described as relying on:
+Effect:
 
-- repetition
-- small descents
-- held tones
-- returning shapes
+**soft pull toward home**
 
-The result is hypnotic rather than showy.
+### B → A# → B → C → C#
 
-It feels as though the melody is **circling a thought** instead of delivering a dramatic statement.
+The bass surrounds stable notes from below, then climbs chromatically.
 
-## Arrangement
+Effect:
 
-A previous structural analysis divided the recreation approximately like this:
+**searching around a target rather than leaving the harmonic world**
 
-- bars 1–16: full signature statement
-- bars 17–32: stripped breakdown with more space
-- bars 33–40: lifted / more continuous lead section
-- bars 41–44: freer coda
+### D# → E
 
-The harmony does not need to change radically because the **density changes the emotional meaning**.
+A recurring semitone resolution into a stable/warm chord tone.
 
-## Outro / ending lesson
+### E → D# → E
 
-The ending was described as a hazy emotional comedown:
+A stable note leaves by the smallest possible distance and immediately returns.
 
-- rhythm recedes into mood
-- vocals/textures become more distant
-- harmony stays suspended
-- the track feels half-awake rather than resolved
+Effect:
 
-This produces intimacy instead of finality.
+**intimate instability**
 
-## Reusable lesson
+### E → D# → E → F → F#
 
-> **Stable harmony can still feel deeply emotional when melody, bass, inversions, chromatic approaches, and arrangement density keep changing around it.**
+The line frames E from both sides before moving onward.
 
-This is an important alternative to the idea that emotional music needs constant chord changes.
+### G# → G → G#
+
+One of the clearest “dark but not sad” gestures.
+
+G# is structurally stable in C# minor.
+
+G natural briefly darkens it from a half step below, then disappears.
+
+Best description:
+
+> **the familiar note momentarily dims.**
+
+## Why the chromaticism does not sound sad
+
+Most of the foreign notes are:
+
+- short
+- neighboring
+- directional
+- resolving
+- embedded inside a very stable harmonic loop
+
+The listener gets friction without losing orientation.
+
+This is fundamentally different from making the strange pitch a long structural harmony.
+
+Reusable lesson:
+
+> **Stable minor harmony + brief half-step neighbors can create shadow without sadness.**
+
+## Main melodic hook: descending interlocking strands
+
+One of the clearest recurring phrases is:
+
+**C#5 → A4 → B4 → G#4 → A4 → F#4 → G#4 → E4 → F#4**
+
+The hidden structure is especially important.
+
+High strand:
+
+**C# → B → A → G# → F#**
+
+Lower answering strand:
+
+**A → G# → F# → E**
+
+Both descend.
+
+So rather than a simple scale run, the melody alternates between two descending lines.
+
+This gives it:
+
+- a clear contour
+- repetition inside the phrase
+- a memorable rhythmic identity
+- lullaby-like downward motion
+- enough interval change to avoid sounding generic
+
+This phrase is an important model for future tracks because it proves that an atmospheric melody can still be extremely hook-like.
+
+## Secondary motif language
+
+Other recurring shapes include:
+
+**F# → G# → A → G# → F#**
+
+A small arch.
+
+And:
+
+**G# → G → G# → B → A**
+
+which combines the chromatic neighbor with a recognizable leap-and-fall answer.
+
+## Repetition as hypnosis
+
+The first 8-bar main-guitar cycle and the next 8-bar cycle are approximately 95% identical at the note-event level.
+
+The background harmony also repeats strongly.
+
+The piece therefore trusts repetition.
+
+Development comes from:
+
+- removing melodic information
+- leaving fragments
+- restoring activity
+- changing performance behavior later
+
+Lesson:
+
+> **Dreamy music can develop by changing what is absent rather than constantly writing new material.**
+
+## Middle reduction
+
+Across the next repeated cycles, much of the foreground melody disappears while the harmonic loop continues.
+
+The auxiliary guitar file restores only a few isolated fragments.
+
+The listener therefore remembers the missing melody.
+
+This creates space without requiring new harmony.
+
+## Later structured return
+
+Around bars 33–40, the same harmonic world remains, but the foreground guitar becomes more active again.
+
+New upper-register material and small scalar fragments appear while the background loop stays familiar.
+
+This feels like a different view of the same nighttime environment.
+
+## The free-time ending
+
+The strongest structural change happens after the background ostinato stops.
+
+From roughly bar 41 onward, the guitar increasingly uses only the white-note collection:
+
+**C – D – E – F – G – A – B**
+
+The earlier C#/G#/D#-heavy C#-minor world drops away.
+
+The coda can be reduced broadly to colors resembling:
+
+- Em7
+- Fmaj7/Fmaj9/Fmaj13-like material
+- Am7/Am11-like material
+
+This is not a literal block-chord transcription; it is a useful reduction of the arpeggiated material.
+
+The piece therefore slips sideways into an A-minor/C-major-adjacent world rather than strongly resolving the earlier loop.
+
+## E → F becomes structural
+
+Earlier, many half steps are decorative approach tones.
+
+In the coda, the bass itself repeatedly uses:
+
+**E → F**
+
+Now the half step moves the floor, not just a foreground voice.
+
+That makes the emotional shift larger while the guitar timbre remains soft.
+
+Lesson:
+
+> **A semitone in the bass can transform the environment without needing a dramatic chord change.**
+
+## The ending actually accelerates
+
+The MIDI has only one formal tempo marker: **84 BPM**.
+
+But the notes increasingly move ahead of the original grid.
+
+Measured roughly as continuation of the earlier eighth-note pulse:
+
+- early free passage behaves around the mid-80s BPM
+- later passage compresses toward roughly **99–100 BPM**
+
+So the perceived speed-up is inside the performed timing, not a MIDI tempo automation.
+
+The hypothesis that the original guitar was simply played freely is plausible, but the MIDI reconstruction alone cannot prove the recording method.
+
+What it does establish is:
+
+> **the coda is rubato and accelerando relative to the earlier grid.**
+
+## Why the ending feels more intimate
+
+Earlier:
+
+- repeated harmonic grid
+- stable accompaniment
+- recurring chromatic gestures
+
+Later:
+
+- background pattern disappears
+- tonal vocabulary changes
+- timing loosens
+- phrase spacing becomes irregular
+- guitar sounds increasingly human rather than sequenced
+
+The result feels closer and more private.
+
+## Why it feels nighttime-like
+
+The nighttime character is produced by a bundle of decisions:
+
+- 84 BPM
+- minor-centered home
+- no forceful dominant resolution
+- soft syncopated guitar pulse
+- large-scale repetition
+- frequent chromatic neighboring
+- warm guitar timbre
+- melodic space
+- free human ending
+
+Best summary:
+
+> **The track sounds nocturnal because it is low-urgency, repetitive, softly minor, gently chromatic, and physically intimate.**
+
+## Contrast with Mice on Venus
+
+This distinction is important for future composition.
+
+### Mice on Venus
+
+Primary mechanism:
+
+**establish home → leave/violate the pitch world → return**
+
+The environment itself becomes strange.
+
+### Aquel Nap ZzZz
+
+Primary mechanism:
+
+**keep home stable → repeatedly brush familiar notes with half-step shadows**
+
+The environment remains familiar while small details slip.
+
+Best contrast:
+
+> **Mice on Venus says “the place changed.” Aquel Nap ZzZz says “the place stayed the same, but tiny things inside it keep shifting.”**
+
+## Reusable rules
+
+1. Nighttime does not require sadness; low urgency can do much of the work.
+2. Stable minor harmony plus brief chromatic neighbors creates shadow without emotional heaviness.
+3. B→C→C# is a strong soft-pull device.
+4. G#→G→G# creates momentary darkening around a stable note.
+5. E→D#→E creates intimate neighbor motion.
+6. Common-tone harmony keeps chromaticism gentle.
+7. Avoid hard dominant resolution for a circular/lullaby atmosphere.
+8. A syncopated accompaniment can rock around strong beats instead of landing on them.
+9. A memorable atmospheric hook can be built from two interlocking descending strands.
+10. Exact repetition can create hypnosis.
+11. Removing the hook while leaving fragments creates memory and space.
+12. A late tonal simplification can make an outro feel personal.
+13. A bass semitone is structurally stronger than the same semitone used as a passing melody note.
+14. Rubato/accelerando can turn a loop-based track into something suddenly human.
+15. The next original track should still have a hook that remains recognizable with timbre/reverb removed.
 
 ---
 
@@ -1247,8 +1493,7 @@ These counts are musically revealing: the atmosphere does not come from every la
 Best labels:
 
 - enchanted
-- atmospheric
-- melancholy
+- atmospheric- melancholy
 - mysterious
 - subtly uncanny
 - beautiful but slightly abnormal
@@ -1497,8 +1742,7 @@ Representative descending dyads include:
 
 - A–E
 - G–D
-- F–C
-- D–A
+- F–C- D–A
 
 The texture gradually contracts from open fifths toward smaller intervals and reduced sonorities.
 
@@ -1747,8 +1991,7 @@ Core description:
 - energetic without aggression
 - echo-heavy
 - immediate chord attack
-- several leads
-- no dedicated bass at first
+- several leads- no dedicated bass at first
 
 ## Important structural idea
 
@@ -1997,7 +2240,6 @@ Use:
 ---
 
 # 25. WHAT NOT TO ASSUME
-
 ## Minor does not equal dark
 Check:
 
